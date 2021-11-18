@@ -1,3 +1,6 @@
+
+<img src="https://raw.githubusercontent.com/krisnantobi/how-to-pay/master/src/assets/logo.png" alt="drawing" width="400"/>
+
 ### Features 
 
 - [List of payment methods with icon](#list-of-payment-methods-with-icon)
