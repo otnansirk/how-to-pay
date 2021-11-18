@@ -1,6 +1,10 @@
 
 <img src="https://raw.githubusercontent.com/krisnantobi/how-to-pay/master/src/assets/logo.png" alt="drawing" width="400"/>
 
+<p align="left">
+<a href="https://github.com/krisnantobi/how-to-pay"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/krisnantobi/how-to-pay?style=flat-square"></a>
+</p>
+
 ### Features 
 
 - [List of payment methods with icon](#list-of-payment-methods-with-icon)
