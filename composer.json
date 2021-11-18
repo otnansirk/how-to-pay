@@ -1,0 +1,23 @@
+{
+    "name": "krisn/howtopay",
+    "description": "This package contains payment list with intruction to pay",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "krisn",
+            "email": "krisnantobiyuh@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Krisn\\HowToPay\\HowToPayServiceProvider"
+            ],
+            "aliases": {
+                "HowToPay": "Krisn\\HowToPay\\Facades\\HowToPay"
+            }
+        }
+    }
+}
