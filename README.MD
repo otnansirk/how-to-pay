@@ -1,8 +1,8 @@
 ### Features 
 
-- Payment method list with icon
-- Payment method list group by type
-- Payment intraction how to pay by payment method
+- [List of payment methods with icon](#list-of-payment-methods-with-icon)
+- [Group the list of payment methods by type](#group-the-list-of-payment-methods-by-type)
+- [Payment instructions how to pay with the selected payment method](#payment-instructions-how-to-pay)
 
 
 ## Installation
@@ -23,7 +23,7 @@ php artisan vendor:publish --tag=public --force
 use Krisn\HowToPay\Facades\HowToPay;
 ```
 
-### Get payment method list with icon
+### List of payment methods with icon
 
 ```php
 HowToPay::payMethods();
@@ -52,7 +52,7 @@ Return
 ]
 ```
 
-### Get payment list with grouping by type
+### Group the list of payment methods by type
 
 ```php
 HowToPay::payMethodGroups();
@@ -102,7 +102,7 @@ Return
 }
 ```
 
-### intraction how to pay by payment method
+### Payment instructions how to pay
 
 ```php
 HowToPay::howToPay('id');
