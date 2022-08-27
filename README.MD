@@ -121,6 +121,7 @@ See the [Payment methods id](#payment-methods-id) to see the supported payment m
 Exp: 
 ```php
 HowToPay::howToPay('bri');
+```
 ```json
 [
     {
